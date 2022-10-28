@@ -2,14 +2,15 @@
 
 👀 I’m interested in ...
 - Free Rider HD
-- Roblox
+- Geometry Dash
+- osu!
 - Scratch Scratch Scratch Scratch Scratch
 
 🌱 I’m currently learning ...
 - Python
-- HTML/CSS?
+- HTML/CSS
 - Haskell?
-- JavaScript
+- JavaScript?
 - Java?
 - C?
 - C++?
