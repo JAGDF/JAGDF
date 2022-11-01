@@ -9,7 +9,6 @@
 🌱 I’m currently learning ...
 - Python
 - HTML/CSS
-- Haskell?
 - JavaScript?
 - Java?
 - C?
@@ -23,7 +22,7 @@
 
 📫 How to reach me ...
 - The Scratch website; try to find me
-- Discord?
+- Discord
 - Google Hangouts (my email is: moses.tyau.li@gmail.com)
 - Replit (check out my example programs series, The "Some thingy" Series)
 - GitHub of course
