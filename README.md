@@ -1,13 +1,14 @@
 👋 Hi, I’m @JAGDF
 
 👀 I’m interested in ...
-- Free Rider HD
 - Geometry Dash
+- Free Rider HD
 - osu!
-- Scratch Scratch Scratch Scratch Scratch
+- ~~Scratch Scratch Scratch Scratch Scratch~~
 
 🌱 I’m currently learning ...
 - Python
+- Ruby
 - HTML/CSS
 - JavaScript?
 - Java?
@@ -15,15 +16,11 @@
 - C++?
 
 💞️ I’m looking to collaborate on ...
-- Scratch projects; some include:
-  - Games
-  - Animated shorts
-  - Music videos
+- Python-related projects
+- Ruby (in the future)
 
 📫 How to reach me ...
-- The Scratch website; try to find me
 - Discord
-- Google Hangouts (my email is: moses.tyau.li@gmail.com)
 - Replit (check out my example programs series, The "Some thingy" Series)
 - GitHub of course
 
